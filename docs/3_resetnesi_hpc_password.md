@@ -1,1 +1,1 @@
-<img src="./img/newResetPassword.png" alt="drawing" width="800"/></p>
+<img src="./img/newResetPassword.png" alt="drawing" width="950"/></p>
