@@ -4,3 +4,7 @@ title: Setup Authen. Factors and Login to NeSI Mahuika Jupyter
 
 description: Instructions for setting up authentications factors to access NeSI HPC services 
 show_downloads: true
+
+markdown: kramdown
+kramdown:
+  parse_block_html: true
