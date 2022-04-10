@@ -2,7 +2,7 @@ theme: jekyll-theme-time-machine
 
 title: Setup Authen. Factors and Login to NeSI Mahuika Jupyter
 
-description: Instructions for setting up authentications factors to access NeSI HPC services 
+description: Instructions for setting up authentication factors to access NeSI HPC services 
 show_downloads: true
 
 markdown: kramdown
