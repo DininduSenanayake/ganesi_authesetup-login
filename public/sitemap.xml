@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://genomicsaotearoa.github.io/RNA-seq-workshop/</loc>
+         <lastmod>2022-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://genomicsaotearoa.github.io/RNA-seq-workshop/1_jupyterlogin/</loc>
+         <lastmod>2022-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://genomicsaotearoa.github.io/RNA-seq-workshop/2_setnesi_hpc_password/</loc>
+         <lastmod>2022-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://genomicsaotearoa.github.io/RNA-seq-workshop/3_resetnesi_hpc_password/</loc>
+         <lastmod>2022-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://genomicsaotearoa.github.io/RNA-seq-workshop/4_setsecodfactor/</loc>
+         <lastmod>2022-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://genomicsaotearoa.github.io/RNA-seq-workshop/5_resetsecondfactor/</loc>
+         <lastmod>2022-11-05</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
