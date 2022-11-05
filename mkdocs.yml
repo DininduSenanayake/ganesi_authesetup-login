@@ -10,7 +10,7 @@ repo_url: https://github.com/DininduSenanayake/ganesi_authesetup-login.git
 
 
 theme:
-  name: mkdocs
+  name: docSkimmer
   logo: img/nesi_ga.png
   favicon: img/nesi_ga.png
    # 404 page
