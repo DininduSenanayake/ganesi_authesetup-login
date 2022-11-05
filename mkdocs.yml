@@ -1,4 +1,4 @@
-site_name: RNA-Seq Data Analysis
+site_name: Workshops Auth/Jupyter Setup 
 site_author: Genomics Aotearoa & NeSI
 site_dir: public
 site_url: "https://genomicsaotearoa.github.io/RNA-seq-workshop/"
@@ -24,12 +24,12 @@ theme:
     toggle:
       icon: material/brightness-auto
       name: Switch to light mode
-    primary: green
+    primary: blue
 
   # Palette toggle for light mode
   - media: "(prefers-color-scheme: light)"
     scheme: default
-    primary: green
+    primary: blue
 
 
 
@@ -43,7 +43,7 @@ theme:
     toggle:
       icon: material/brightness-4
       name: Switch to system preference
-    primary: green
+    primary: blue
 
   
   features:

@@ -1,4 +1,4 @@
-# Welcome to MkDocs
+# Content
 
 1. [Jupyter Login Instructions](1_jupyterlogin.md)
 2. [Set NeSI HPC Password](2_setnesi_hpc_password.md)

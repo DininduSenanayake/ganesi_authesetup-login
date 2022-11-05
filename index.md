@@ -1,4 +1,4 @@
-## Content
+# Content
 
 1. [Jupyter Login Instructions](./docs/1_jupyterlogin.md)
 2. [Set NeSI HPC Password](./docs/2_setnesi_hpc_password.md)
