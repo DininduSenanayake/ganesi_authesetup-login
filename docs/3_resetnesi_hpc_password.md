@@ -1,2 +1,6 @@
-#### Reset HPC Password via [https://my.nesi.org.nz/login](https://my.nesi.org.nz/login)
-<img src="./img/newResetPassword.png" alt="drawing" width="950"/>
+# 3. Reset HPC Password
+
+!!! note ""
+    **Done via** [https://my.nesi.org.nz/login](https://my.nesi.org.nz/login)
+    
+![image](./img/newResetPassword.png){width="1000"}
