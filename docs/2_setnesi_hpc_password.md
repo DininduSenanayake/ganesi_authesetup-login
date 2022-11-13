@@ -1,4 +1,4 @@
-# 2. Set HPC Password via 
+# 2. Set HPC Password  
 
 !!! note ""
     **Done via** [https://my.nesi.org.nz/login](https://my.nesi.org.nz/login)

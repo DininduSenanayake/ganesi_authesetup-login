@@ -1,4 +1,4 @@
-# 4. Set HPC Second Factor via 
+# 4. Set HPC Second Factor  
 
 !!! note ""
     **Done via** [https://my.nesi.org.nz/login](https://my.nesi.org.nz/login)
